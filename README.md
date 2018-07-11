@@ -11,4 +11,4 @@ UID-64 server specific random unique number generator.
 
 UID-64 contains version, server id, ticks and counter for exact ticks. You can change begin date for ticks so, you can create less UID-64.
 # Installation
-You can import package with [abapGit](https://github.com/larshp/abapGit) or [SAPlink](https://github.com/sapmentors/SAPlink) to your SAP system.
+You can import relased [packages](releases) with [abapGit](https://github.com/larshp/abapGit) or [SAPlink](https://github.com/sapmentors/SAPlink) to your SAP system.
