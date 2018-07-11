@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_UID64</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>T</LANGU>
+    <DESCRIPT>UID64</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UID64</CLSNAME>
+     <CMPNAME>CLASS_CONSTRUCTOR</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>CLASS_CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UID64</CLSNAME>
+     <CMPNAME>CREATE</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Create new UID-64</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UID64</CLSNAME>
+     <CMPNAME>C_REDUCE_TIME</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>UTC zaman damgası-uzun biçimde(YYYYAAGGssddsnsnmmmuuun)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UID64</CLSNAME>
+     <CMPNAME>ENCODE</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Encode as character</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UID64</CLSNAME>
+     <CMPNAME>RANDOMBYTE</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Random byte generator</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UID64</CLSNAME>
+     <CMPNAME>V_PREVIOUSSECONDS</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>UTC zaman damgası-uzun biçimde(YYYYAAGGssddsnsnmmmuuun)</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
