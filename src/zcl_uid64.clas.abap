@@ -70,13 +70,7 @@ method CREATE.
   data: COUNTER         type I,
         TIME_STAMP      type TIMESTAMPL,
         SECONDS         type TIMESTAMPL,
-        LV_VALUE        type C length 8,
-        LV_ALFABET      type STRING,
-        LV_ALFABET_RND  type STRING,
         LV_TEMP         type STRING,
-        LV_ALFABET_LEN  type I,
-        LV_RANDOM       type I,
-        LV_COUNT        type I,
         LV_I            type I.
 
   get time stamp field TIME_STAMP.
